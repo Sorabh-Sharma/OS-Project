@@ -9,7 +9,7 @@
 .header{
     min-height: 100vh;
     width:100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./eduford_img/main_bg.JPG);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./eduford_img/os1.png);
     background-size:cover;
     background-position: center;
     position:relative;
@@ -376,7 +376,7 @@ h3{
 .cta{
     margin:100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./eduford_img/banner2.JPG);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./eduford_img/Operating-System.jpg);
     background-position:center;
     background-size:cover;
     border-radius: 10px;
@@ -418,7 +418,7 @@ h3{
 .sub-header{
     height:50vh;
     width:100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./images/vecteezy_technology-background_ma1220.JPG);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(/images/vecteezy_technology-background_ma1220.JPG);
     background-position: center;
     background-size: cover;
     text-align:center;
