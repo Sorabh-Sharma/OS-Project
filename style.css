@@ -218,6 +218,7 @@ p{
     padding:20px 12px;
     box-sizing: border-box;
     transition: 0.5s;
+    background: linear-gradient(135deg, #ff6ec4, #4a90e2);
 }
 
 h3{
